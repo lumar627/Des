@@ -23,7 +23,7 @@ from telegram.ext import (
 )
 
 # ---------------- Configuration ----------------
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7699923377:AAHE3o1WK80DiROSrSpNql8Yx6yVjMxoLgw")
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8429171006:AAGsROOcmPD-6c6UE6Ex32R7NKJQX0s0gBE")
 DEVELOPER_TAG = "@VILAXLORD"
 
 # Owner and admin control
